@@ -1,11 +1,11 @@
-# AntiDebugger
+# 🔥AntiDebugger🔥
 Anti Debugger Library
 
 Features
 -- Dump Protection --
-Anti Dump
+Anti Dump🧑‍💻
 
--- Debugger --
+-- Debugger👮‍♀️ --
 CheckForInactiveDebuggers
 CheckForDebuggers
 
