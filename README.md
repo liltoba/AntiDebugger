@@ -1,11 +1,11 @@
-# AD
-If you don't like, your gay... Simple...
+# AntiDebugger
+Anti Debugger Library
 
 Features
 -- Dump Protection --
 Anti Dump
 
--- Debugger Shit --
+-- Debugger --
 CheckForInactiveDebuggers
 CheckForDebuggers
 
@@ -21,8 +21,3 @@ OverwriteFileAndDelete (the purpose of this is that when you delete something, i
 WebRequestWithAntiSnifer (Webrequest version)
 WebRequestWithAntiSniferStringVersion
 
-My shoppy
-https://shoppy.gg/@FiveMen
-
-My Discord
-https://discord.gg/R6pAWkQFw8
